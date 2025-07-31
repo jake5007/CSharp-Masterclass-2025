@@ -11,6 +11,14 @@ This repository contains selected assignments and projects from the Udemy course
 - Outputs structured results to console
 - Writes Log file when exception occurs
 
+### 2. CustomCache
+
+- Implements a generic in-memory cache using `Dictionary<TKey, TValue>`
+- Uses `Func<TKey, TData>` for lazy data retrieval
+- Demonstrates the Decorator Design Pattern for modular behavior
+- Includes layered components: SlowDataDownloader → Printing → Caching
+- Avoids redundant operations by caching repeated data requests
+
 ---
 
 ## How to Run
