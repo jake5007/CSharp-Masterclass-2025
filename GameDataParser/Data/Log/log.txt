@@ -1,0 +1,5 @@
+[2025-07-31 오후 7:24:00]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2.
+Stack trace:    at GameDataParser.DataAccess.GamesDeserializer.DeserializeGameData(String fileContents, String fileName) in C:\Users\jake5\source\repos\CSharpClass\GameDataParser\DataAccess\GamesDeserializer.cs:line 27
+   at GameDataParser.App.GameDataParserApp.Run() in C:\Users\jake5\source\repos\CSharpClass\GameDataParser\App\GameDataParserApp.cs:line 33
+

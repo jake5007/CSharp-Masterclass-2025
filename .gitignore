@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+
+# VS and Rider temp
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.vs/
+
+# Logs
+*.log
