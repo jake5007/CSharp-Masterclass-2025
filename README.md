@@ -19,6 +19,13 @@ This repository contains selected assignments and projects from the Udemy course
 - Includes layered components: SlowDataDownloader → Printing → Caching
 - Avoids redundant operations by caching repeated data requests
 
+### 3. CookiesCookBookLINQ
+
+- Demonstrates usage of LINQ methods like `Select`, `Where`, `FirstOrDefault`, and `Count`
+- Applies core OOP principles including **polymorphism**, **inheritance**, and **interfaces**
+- Simulates a simple cookie recipe app with modular, reusable class structure
+- Clean, object-oriented code with SRP and clear method separation
+
 ---
 
 ## How to Run
